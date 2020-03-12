@@ -1,0 +1,14 @@
+{
+	"name": "ethereum_voting_dapp",
+	"version": "1.0.0",
+	"description": "",
+	"main": "Voting.sol",
+	"scripts": {
+		"solc": "solc --bin --abi Voting.sol"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"solc": "^0.5.3"
+	}
+}
